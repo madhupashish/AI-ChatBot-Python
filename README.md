@@ -1,5 +1,6 @@
 # AI-ChatBot-Python
 What is Chatbot?
+
 Chat bot is a software application that uses artificial intelligence and natural language processing to allow you to have a text-based or text-to-speech conversation.
 
 Types of Chatbots:
