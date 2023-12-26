@@ -9,7 +9,7 @@ Types of Chatbots:
 2. AI based Chatbots: AI chatbots uses natural language processing (NLP) and machine learning to understand the context and intent of a user’s query pattern and to create connections between different queries which are asked in different ways in order to provide a better response.
 
 
-#Description 
+# Description 
 
 In this Python Chatbot Project, we're creating a smart chatbot that can understand what users are saying and respond appropriately. This chatbot will remember the conversation context and give relevant answers. We'll use advanced techniques from deep learning to build a model that learns from examples of conversations.
 
